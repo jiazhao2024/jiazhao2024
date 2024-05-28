@@ -9,10 +9,10 @@ I am Jia Zhao, a spatial data analyst who is just starting out career. Hoping to
 This is a collection of some of my Data Science projects
 
 - [Airbnb-Price-Prediction](https://github.com/jiazhao2024/gdssa-airbnb-price-predict): Predict house prices through spatial correlation and random forests using Insight Airbnb's Bristol dataset
-- [Airbnb-Lisitngs-Data-Prepare](https://github.com/jiazhao2024/gdssa-airbnb-lisitngs-data-prepare): By establishing an airbnb database for subsequent modeling analysis
 - [Geo-NER-BERT-Training](https://github.com/jiazhao2024/gdssa-geo-ner-bert-training): Train the BERT model to extract and classify geographic entities from text data
 - [Income-Inference-by-Population-Longitudinal-Data](https://github.com/jiazhao2024/income-inference-by-population-longitudinal-data): Use the lag model to predict the influencing factors and correlations of income
 - [Spatial-Heterogeneity-of-Housing-Prices-Inference](https://github.com/jiazhao2024/gdssa-Spatial-Heterogeneity-of-Housing-Prices-Inference): Use GWR to determine what affects the spatial distribution of house prices in Birmingham
+- [Airbnb-Lisitngs-Data-Prepare](https://github.com/jiazhao2024/gdssa-airbnb-lisitngs-data-prepare): By establishing an airbnb database for subsequent modeling analysis
 
 Ongoing projects:
 
