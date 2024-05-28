@@ -14,7 +14,7 @@ This is a collection of some of my Data Science projects
 - [Income-Inference-by-Population-Longitudinal-Data](https://github.com/jiazhao2024/income-inference-by-population-longitudinal-data): Use the lag model to predict the influencing factors and correlations of income
 - [Spatial-Heterogeneity-of-Housing-Prices-Inference](https://github.com/jiazhao2024/gdssa-Spatial-Heterogeneity-of-Housing-Prices-Inference): Use GWR to determine what affects the spatial distribution of house prices in Birmingham
 
-Here are my ongoing projects:
+Ongoing projects:
 
 - [Commuting-Decisions-Making-Inference](https://github.com/jiazhao2024/gdssa-commuting-decisions-making): Determine what factors are influential in driving commuting decisions
 - [Airbnb-Geotext-Feature](https://github.com/jiazhao2024/gdssa-airbnb-geotext-feature): Explore how hosts and travelers perceive cities using airbnb data
